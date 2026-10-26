@@ -1,0 +1,11 @@
+{
+  "name": "Chat Range",
+  "version": "1.0.2",
+  "hasSettingsIcon": true,
+  "contactEmailAddress": "admin@rabbet.lol",
+  "requiredDependencies": {},
+  "optionalDependencies": {},
+  "requiredPermissions": [],
+  "optionalPermissions": [],
+  "urls": {}
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Hunter Manager",
+  "version": "0.1.10",
+  "contactEmailAddress": "admin@rabbet.lol",
+  "hasSettingsIcon": true,
+  "optionalPermissions": ["chatAccess"]
+}

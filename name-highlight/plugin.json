@@ -1,0 +1,7 @@
+{
+  "name": "Name Highlight",
+  "version": "0.1.2",
+  "contactEmailAddress": "admin@rabbet.lol",
+  "hasSettingsIcon": true,
+  "optionalPermissions": ["chatAccess"]
+}
